@@ -1,0 +1,5 @@
+
+Retos:
+
+1. Conseguir alguna forma de guardar el formulario para cuando el usuario vuelva a ingresar. 
+2. Desarrollar la app con otro enfoque. En lugar de componente Lista de Tareas, incluir los componentes en la APP principal.
